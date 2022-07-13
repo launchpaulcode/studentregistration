@@ -1,0 +1,76 @@
+
+body
+{
+width: 100%;
+height: 100%;
+background-color: none;
+
+}
+#container 
+{
+    margin: auto;
+    width: 40%;
+    height: 500px;
+    border: none ;
+    padding: 10px;
+    background-color: gray;
+    border-radius: 5px;
+    border-style: groove;
+
+    
+}
+
+.positioning
+{
+    margin-left: 20px;
+}
+
+#p3 
+{
+    
+    margin-left: -15px ;
+}
+
+
+.pclass 
+{
+    display : inline;
+    margin-right : 110px;
+    
+}
+
+#birthmonthcollum
+{
+display: inline-block;
+}
+#birthmonth 
+{
+font-size: auto;
+
+}
+.smalltext 
+{ 
+    font-size : 10px
+}
+#birthday
+{
+block-size: 10%;
+}
+#birthday 
+{
+vertical-align: middle;
+}
+
+.input{
+    width: 70px;
+}
+.inputgender{
+    width: 120px;
+}
+.secondline {
+    display: inline-block;
+}
+#genderselectionline
+{
+    margin-right: 20px;
+}
